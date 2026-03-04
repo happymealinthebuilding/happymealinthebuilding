@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Artificial Intelligence, Machine Learning<br><br>👨‍💻 All of my projects are available at https://docs.google.com/document/d/1fg4nvwoOM5EW_1EJ65krRr-pJ5i16__gZCLqw2TkR1c/edit?usp=sharing<br><br>📄 Know about my experiences https://drive.google.com/file/d/1mdSMPrKEbeqiisLRGoBAHMlRnENSfyjX/view?usp=sharing<br><br>⚡ Fun fact I like salty food!
+🌱 I’m currently learning Artificial Intelligence, Machine Learning<br><br>📄 Know about my experiences https://drive.google.com/file/d/1mdSMPrKEbeqiisLRGoBAHMlRnENSfyjX/view?usp=sharing<br><br>⚡ Fun fact I like salty food!
 
 
 ## 🌐 Socials:
