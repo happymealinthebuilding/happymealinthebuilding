@@ -2,7 +2,7 @@
 
 Second-year biology undergraduate at **Ege University** (Izmir, Turkey).
 
-###### _Research Focus**: Cancer Bioinformatics | Single-cell RNA-seq analysis_
+###### _Research Focus: Cancer Bioinformatics | Single-cell RNA-seq analysis_
 ---
 
 ##  Current Work
