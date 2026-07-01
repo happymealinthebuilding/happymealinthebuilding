@@ -24,11 +24,10 @@ All my academic work, projects, and professional materials are organized on Goog
 
 | Resource | Link |
 |----------|------|
-| **Coding Portfolio** | [View →](https://drive.google.com/open?id=1QLDeSX0ClOUA8puZ1unGicbeqN7Kr_v9&usp=drive_copy) |
+| **CV** | [View →](https://drive.google.com/open?id=1DFPSUGVUkHu8aHDN47ldQ28IeXpfRk_N&usp=drive_copy) |
 | **Presentations** | [View →](https://drive.google.com/open?id=1_kd7aXnWsf4ZMcDQsrIoRSHLRtJ7WnLg&usp=drive_copy) |
 | **Certificates & Courses** | [View →](https://drive.google.com/open?id=1hv4V6wL8E31uxgmZCTJ9WaYPM1ott4F9&usp=drive_copy) |
 | **Project Licences** | [View →](https://drive.google.com/open?id=1Wwh4XGXPg4NUCNu5Zj7gsIU8g6P5VGyi&usp=drive_copy) |
-| **CV** | [View →](https://drive.google.com/open?id=1DFPSUGVUkHu8aHDN47ldQ28IeXpfRk_N&usp=drive_copy) |
 | **Reference Letters** | [View →](https://drive.google.com/open?id=1JQPU4_uo5hU0qK771rMI-RKCM693v_Do&usp=drive_copy) |
 
 ---
@@ -86,16 +85,3 @@ All my academic work, projects, and professional materials are organized on Goog
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
----
-
-## Skills Snapshot
-
-**Strong in:** Transcriptomic data analysis • Feature selection & ML pipelines • Single-cell RNA-seq • R/Python bioinformatics • Data visualization • Cross-validation & model evaluation
-
-**Interested in:** Cancer genomics • Immune profiling • Computational methods for omics data • Machine learning in biology • Open science
-
----
-
-*Always learning. Always building.* 
