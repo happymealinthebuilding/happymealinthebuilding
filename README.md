@@ -1,6 +1,6 @@
 # Hi, I'm Azra! 
 
-Second-year biology undergraduate at **Ege University** (Izmir, Turkey).
+Third-year biology undergraduate at **Ege University** (Izmir, Turkey).
 
 ###### _Research Focus: Cancer Bioinformatics | Single-cell RNA-seq analysis_
 ---
